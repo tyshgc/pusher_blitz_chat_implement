@@ -1,0 +1,2 @@
+# pusher_blitz_chat_implement
+PusherとBlitzでチャット実装をためしてみるだけのリポジトリ
